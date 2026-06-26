@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://as-phy.github.io/sitemap.xml
